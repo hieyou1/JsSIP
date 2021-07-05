@@ -19,7 +19,8 @@
 
 ## Download
 
-`npm i node-jssip`
+<!-- `npm i node-jssip` -->
+Please download from this repo for now, or use `npm i github:hieyou1/jssip`
 
 ## Authors
 
