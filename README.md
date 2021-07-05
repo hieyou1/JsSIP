@@ -1,4 +1,8 @@
 # node-JsSIP
+
+## Note
+[The authors of jssip are planning to remove built-in WebRTC support](https://github.com/versatica/JsSIP/issues/723#issuecomment-873621523), which would eliminate the need for this repo. If/when that happens, this README will be updated with how to use [node-webrtc](https://github.com/node-webrtc/node-webrtc) in regular JsSIP.
+
 ## Overview
 
 * Runs in **Node.js only**.
