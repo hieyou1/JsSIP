@@ -2,7 +2,7 @@
 ## Overview
 
 * Runs in **Node.js only**.
-* SIP over [node-WebSocket](https://github.com/theturtle32/WebSocket-Node)
+* SIP over [WebSocket-node](https://github.com/theturtle32/WebSocket-Node)
 * Audio/video calls over [node-webrtc](https://github.com/node-webrtc/node-webrtc) and instant messaging
 * Lightweight!
 * Easy to use and powerful user API
